@@ -1,0 +1,1 @@
+g++ -dynamiclib -undefined suppress -flat_namespace *.o -o liblua.5.1.5.dylib
